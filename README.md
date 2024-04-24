@@ -1,7 +1,11 @@
-### Bonjour 👋
+## Bonjour 👋
 
 Je m'appelle Arnaud et je suis développeur.
 Vous trouverez ici les projets personnels sur lesquels je travaille, ainsi que des projets réalisés durant mes années d'études.
+
+### Langages et technos avec lesquels je travaille
+
+<br>
 
 ![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
@@ -19,10 +23,24 @@ Vous trouverez ici les projets personnels sur lesquels je travaille, ainsi que d
 ![](https://img.shields.io/badge/Tools-Codecov-informational?style=flat&logo=codecov&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-SonarCloud-informational?style=flat&logo=sonarcloud&logoColor=white&color=2bbc8a)
 
+<br>
+
+---
+
+### Certifications obtenues
+
+<br>
+
 [<img src="/badges/github-actions.png" height="120" alt="Github Actions"/>](https://www.credly.com/badges/bcc83162-8396-4e95-b73d-b89ad2658027)
 [<img src="/badges/github-advanced-security.png" height="120" alt="Github Advanced Security"/>](https://www.credly.com/badges/a20775eb-8713-4013-b0fe-d5e359a543e8)
 [<img src="/badges/professional-scrum-master-i-psm-i.png" height="110" alt="PSM 1"/>](https://www.scrum.org/user/1355891/)
 [<img src="/badges/professional-scrum-master-ii-psm-ii.png" height="110" alt="PSM 2"/>](https://www.scrum.org/user/1355891/)
+
+<br>
+
+---
+
+### Langages des projets sur ce GitHub
 
 <br>
 
