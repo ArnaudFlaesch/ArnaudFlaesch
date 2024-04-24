@@ -1,11 +1,14 @@
-## Bonjour 👋
+# Bonjour 👋
 
 Je m'appelle Arnaud et je suis développeur.
 Vous trouverez ici les projets personnels sur lesquels je travaille, ainsi que des projets réalisés durant mes années d'études.
 
-### Langages et technos avec lesquels je travaille
+<p align="left">
+<a href="https://stackoverflow.com/users/12927815" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12927815" height="30" width="40" /></a>
+<a href="https://medium.com/@arnaudflaesch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@arnaudflaesch" height="30" width="40" /></a>
+</p>
 
-<br>
+## Langages et technos avec lesquels je travaille
 
 ![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
@@ -23,27 +26,25 @@ Vous trouverez ici les projets personnels sur lesquels je travaille, ainsi que d
 ![](https://img.shields.io/badge/Tools-Codecov-informational?style=flat&logo=codecov&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-SonarCloud-informational?style=flat&logo=sonarcloud&logoColor=white&color=2bbc8a)
 
-<br>
-
----
-
-### Certifications obtenues
-
-<br>
+## Certifications obtenues
 
 [<img src="/badges/github-actions.png" height="120" alt="Github Actions"/>](https://www.credly.com/badges/bcc83162-8396-4e95-b73d-b89ad2658027)
 [<img src="/badges/github-advanced-security.png" height="120" alt="Github Advanced Security"/>](https://www.credly.com/badges/a20775eb-8713-4013-b0fe-d5e359a543e8)
 [<img src="/badges/professional-scrum-master-i-psm-i.png" height="110" alt="PSM 1"/>](https://www.scrum.org/user/1355891/)
 [<img src="/badges/professional-scrum-master-ii-psm-ii.png" height="110" alt="PSM 2"/>](https://www.scrum.org/user/1355891/)
 
-<br>
-
----
-
-### Langages des projets sur ce GitHub
-
-<br>
+## Langages des projets sur ce GitHub
 
 <p float="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnaudFlaesch&layout=compact" />
 </p>
+
+<h1 align="center">Hi 👋, I'm arnaudflaesch</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arnaudflaesch" alt="arnaudflaesch" /></a> </p>
+
+### Blogs posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
