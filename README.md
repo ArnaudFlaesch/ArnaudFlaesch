@@ -47,4 +47,6 @@ Vous trouverez ici les projets personnels sur lesquels je travaille, ainsi que d
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [GitHub Advanced Security : Des outils automatisés pour sécuriser vos projets](https://medium.com/publicis-sapient-france/github-advanced-security-des-outils-automatises-pour-securiser-vos-projets-da8b1fdd9c3a?source=rss-3c59a8fbc26a------2)
+- [Gérer les dépendances d’un projet logiciel facilement avec Renovate](https://medium.com/publicis-sapient-france/gerer-les-dependances-dun-projet-logiciel-facilement-avec-renovate-a9538cb18327?source=rss-3c59a8fbc26a------2)
 <!-- BLOG-POST-LIST:END -->
