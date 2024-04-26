@@ -9,11 +9,11 @@ Vous trouverez ici les projets personnels sur lesquels je travaille, ainsi que d
 </p>
 
 <p>
-📝 Vous pouvez retrouver mes articles sur Medium : 
+📝 Mes articles sur Medium : 
  <a href ="https://medium.com/@arnaudflaesch"> <img align="center" src="./logos/medium.png" alt="medium" height="30" /></a>
 </p>
 
-📫 Pour me [contacter](https://arnaudflaesch.github.io/contact/)
+📫 Vous pouvez me contacter [ici](https://arnaudflaesch.github.io/contact/)
 
 🌐 Mon site web : <https://arnaudflaesch.github.io>
 
