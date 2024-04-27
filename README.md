@@ -3,28 +3,31 @@
 Je m'appelle Arnaud et je suis développeur.
 Vous trouverez ici les projets personnels sur lesquels je travaille, ainsi que des projets réalisés durant mes années d'études.
 
+👨‍💻 Je travaille actuellement en tant que développeur fullstack chez [Publicis Sapient France](https://www.publicissapient.fr/).
+J'ai principalement de l'expérience avec Java, Spring Boot, Kotlin, Angular et PostgreSQL.
+
+🇨🇦 J'ai vécu et travaillé au Canada pendant deux ans.
+
+🏃 Je pratique régulièrement la course à pieds et ai couru le Marathon de Paris.
+
 <p>
 💼 Pour en savoir plus sur mes expériences professionnelles :
  <a href ="https://www.linkedin.com/in/arnaudflaesch"> <img align="center" src="./logos/linkedin.png" alt="linkedin" height="30" /></a>
 </p>
 
 <p>
-📝 Mes articles sur Medium : 
+📝 Mes articles publiés sur Medium : 
  <a href ="https://medium.com/@arnaudflaesch"> <img align="center" src="./logos/medium.png" alt="medium" height="30" /></a>
 </p>
 
-📫 Vous pouvez me contacter [ici](https://arnaudflaesch.github.io/contact/)
+📫 Vous pouvez me contacter [ici](https://arnaudflaesch.github.io/contact/).
 
-🌐 Mon site web : <https://arnaudflaesch.github.io>
+🌐 Mon site web : <https://arnaudflaesch.github.io>.
 
 <p style="display: flex; justify-items:center">
-👨‍💻 Mon profil StackOverflow : 
+ 🖥️ Mon profil StackOverflow : 
  <a href ="https://stackoverflow.com/users/12927815"> <img align="center" height="30" alt="stackoverflow" src="./logos/stackoverflow.png"/></a>
 </p>
-
-🇨🇦 J'ai vécu et travaillé au Canada pendant deux ans.
-
-🏃 Je pratique régulièrement la course à pieds et ai couru le Marathon de Paris.
 
 ## Langages et outils utilisés
 
