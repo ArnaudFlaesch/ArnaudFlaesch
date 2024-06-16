@@ -3,7 +3,7 @@
 Je m'appelle Arnaud et je suis développeur.
 Vous trouverez ici les projets personnels sur lesquels je travaille, ainsi que des projets réalisés durant mes années d'études.
 
-👨‍💻 Je travaille actuellement en tant que développeur fullstack chez [Publicis Sapient France](https://www.publicissapient.fr/).
+👨‍💻 Je travaille actuellement en tant que développeur d'applications chez l'[Institut Pasteur](https://www.pasteur.fr/).
 J'ai principalement de l'expérience avec Java, Spring Boot, Kotlin, Angular et PostgreSQL.
 
 🇨🇦 J'ai vécu et travaillé au Canada pendant deux ans.
@@ -55,10 +55,12 @@ J'ai principalement de l'expérience avec Java, Spring Boot, Kotlin, Angular et 
 
 ## Certifications obtenues
 
-[<img src="/badges/professional-cloud-developer-certification.png" height="110" alt="Professional Cloud Developer"/>](https://www.credly.com/badges/6fc2687b-3a79-4828-b164-f5da38917bd0)
 [<img src="/badges/cloud-digital-leader-certification.png" height="110" alt="Cloud Digital Leader"/>](https://www.credly.com/badges/b849f990-e002-40ac-b8dd-ac3f5f9fa211)
-[<img src="/badges/github-actions.png" height="110" alt="Github Actions"/>](https://www.credly.com/badges/bcc83162-8396-4e95-b73d-b89ad2658027)
-[<img src="/badges/github-advanced-security.png" height="110" alt="Github Advanced Security"/>](https://www.credly.com/badges/a20775eb-8713-4013-b0fe-d5e359a543e8)
+[<img src="/badges/professional-cloud-developer-certification.png" height="110" alt="Professional Cloud Developer"/>](https://www.credly.com/badges/6fc2687b-3a79-4828-b164-f5da38917bd0)
+[<img src="/badges/github-actions.png" height="110" alt="GitHub Actions"/>](https://www.credly.com/badges/bcc83162-8396-4e95-b73d-b89ad2658027)
+[<img src="/badges/github-advanced-security.png" height="110" alt="GitHub Advanced Security"/>](https://www.credly.com/badges/a20775eb-8713-4013-b0fe-d5e359a543e8)
+[<img src="/badges/github-foundations.png" height="110" alt="GitHub Foundations"/>](https://www.credly.com/badges/85ef131c-c299-4bd5-aa55-77141c16c822)
+[<img src="/badges/github-copilot.png" height="110" alt="GitHub Copilot"/>](https://www.credly.com/badges/e8fd9833-c41b-40b9-8af6-7c7105b7f5c2)
 [<img src="/badges/professional-scrum-master-i-psm-i.png" height="105" alt="PSM 1"/>](https://www.scrum.org/user/1355891/)
 [<img src="/badges/professional-scrum-master-ii-psm-ii.png" height="105" alt="PSM 2"/>](https://www.scrum.org/user/1355891/)
 [<img src="/badges/certified-safe-6-agilist.png" height="110" alt="SAFe 6 Agilist"/>](https://www.credly.com/badges/73047751-ef1f-47b9-a0d1-6c4f24319c61)
