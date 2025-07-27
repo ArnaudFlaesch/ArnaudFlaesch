@@ -61,9 +61,12 @@ J'ai principalement de l'expérience avec Java, Spring Boot, Kotlin, Angular et 
 [<img src="/badges/github-advanced-security.png" height="100" alt="GitHub Advanced Security"/>](https://www.credly.com/badges/a20775eb-8713-4013-b0fe-d5e359a543e8)
 [<img src="/badges/github-foundations.png" height="100" alt="GitHub Foundations"/>](https://www.credly.com/badges/85ef131c-c299-4bd5-aa55-77141c16c822)
 [<img src="/badges/github-copilot.png" height="100" alt="GitHub Copilot"/>](https://www.credly.com/badges/e8fd9833-c41b-40b9-8af6-7c7105b7f5c2)
-[<img src="/badges/professional-scrum-master-i-psm-i.png" height="95" alt="PSM 1"/>](https://www.scrum.org/user/1355891/)
-[<img src="/badges/professional-scrum-master-ii-psm-ii.png" height="95" alt="PSM 2"/>](https://www.scrum.org/user/1355891/)
+[<img src="/badges/PSM1.png" height="95" alt="PSM 1"/>](https://www.scrum.org/user/1355891/)
+[<img src="/badges/PSM2.png" height="95" alt="PSM 2"/>](https://www.scrum.org/user/1355891/)
+[<img src="/badges/PSPO1.png" height="95" alt="PSPO 1"/>](https://www.scrum.org/user/1355891/)
+[<img src="/badges/PSK1.png" height="95" alt="PSK 1"/>](https://www.scrum.org/user/1355891/)
 [<img src="/badges/certified-safe-6-agilist.png" height="100" alt="SAFe 6 Agilist"/>](https://www.credly.com/badges/73047751-ef1f-47b9-a0d1-6c4f24319c61)
+
 
 ## Mes derniers articles sur Medium
 
