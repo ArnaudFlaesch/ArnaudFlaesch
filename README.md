@@ -59,11 +59,13 @@ J'ai principalement de l'expérience avec Java, Spring Boot, Kotlin, Angular et 
 [<img src="/badges/professional-cloud-developer-certification.png" height="100" alt="Professional Cloud Developer"/>](https://www.credly.com/badges/6fc2687b-3a79-4828-b164-f5da38917bd0)
 [<img src="/badges/github-actions.png" height="100" alt="GitHub Actions"/>](https://www.credly.com/badges/bcc83162-8396-4e95-b73d-b89ad2658027)
 [<img src="/badges/github-advanced-security.png" height="100" alt="GitHub Advanced Security"/>](https://www.credly.com/badges/a20775eb-8713-4013-b0fe-d5e359a543e8)
+[<img src="/badges/github-administration.png" height="100" alt="GitHub Administration"/>](https://learn.microsoft.com/fr-fr/users/arnaudflaesch-5043/credentials/84831c38dd0a695a)
 [<img src="/badges/github-foundations.png" height="100" alt="GitHub Foundations"/>](https://www.credly.com/badges/85ef131c-c299-4bd5-aa55-77141c16c822)
 [<img src="/badges/github-copilot.png" height="100" alt="GitHub Copilot"/>](https://www.credly.com/badges/e8fd9833-c41b-40b9-8af6-7c7105b7f5c2)
 [<img src="/badges/PSM1.png" height="95" alt="PSM 1"/>](https://www.scrum.org/user/1355891/)
 [<img src="/badges/PSM2.png" height="95" alt="PSM 2"/>](https://www.scrum.org/user/1355891/)
 [<img src="/badges/PSPO1.png" height="95" alt="PSPO 1"/>](https://www.scrum.org/user/1355891/)
+[<img src="/badges/PSPO2.png" height="95" alt="PSPO 2"/>](https://www.scrum.org/user/1355891/)
 [<img src="/badges/PSK1.png" height="95" alt="PSK 1"/>](https://www.scrum.org/user/1355891/)
 [<img src="/badges/certified-safe-6-agilist.png" height="100" alt="SAFe 6 Agilist"/>](https://www.credly.com/badges/73047751-ef1f-47b9-a0d1-6c4f24319c61)
 
@@ -72,7 +74,7 @@ J'ai principalement de l'expérience avec Java, Spring Boot, Kotlin, Angular et 
 
 <!-- BLOG-POST-LIST:START -->
 
-- [GitHub Advanced Security : Des outils automatisés pour sécuriser vos projets](https://medium.com/publicis-sapient-france/github-advanced-security-des-outils-automatises-pour-securiser-vos-projets-da8b1fdd9c3a?source=rss-3c59a8fbc26a------2)
+- [GitHub Advanced Security : Des outils automatisés pour sécuriser vos projets](https://medium.com/publicis-sapient-france/github-advanced-security-des-outils-automatises-pour-securiser-vos-projets-da8b1fdd9c3a?source=rss-3c59a8fbc26a------2)
 - [Gérer les dépendances d’un projet logiciel facilement avec Renovate](https://medium.com/publicis-sapient-france/gerer-les-dependances-dun-projet-logiciel-facilement-avec-renovate-a9538cb18327?source=rss-3c59a8fbc26a------2)
 <!-- BLOG-POST-LIST:END -->
 
